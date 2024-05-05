@@ -1,4 +1,25 @@
-### Hi there 👋
+# Hi, I'm Shani! 👋
+
+I'm currently pursuing my BSC in CS.
+
+![ShaniTheCoder's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Front End WebDevelopment
+- Exploring the ins and outs of App development with flutter and dart.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com/codegrive)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
 **ShaniTheCoder/ShaniTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

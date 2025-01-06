@@ -1,6 +1,6 @@
 # Hi, I'm Shani! 👋
 
-I'm currently pursuing my BSC in CS.
+I'm currently pursuing BSC in CS.
 
 ![ShaniTheCoder's Stats](https://github-readme-stats.vercel.app/api?username=ShaniTheCoder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 

@@ -2,10 +2,10 @@
 
 I'm currently pursuing BSC in CS.
 
-![ShaniTheCoder's Stats](https://github-readme-stats.vercel.app/api?username=CGrive&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![CGrive's Stats](https://github-readme-stats.vercel.app/api?username=CGrive&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,flutter,dart)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
